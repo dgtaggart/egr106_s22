@@ -1,5 +1,5 @@
-function Lecture_7
-% Lecture 7 - loop and user function examples
+function Lecture_8
+% Lecture 8 - loop and user function examples
 %
 % Note - if more than one function is in a file, the 'main' program
 %        must also be a function
